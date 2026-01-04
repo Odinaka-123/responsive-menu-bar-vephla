@@ -6,12 +6,13 @@ This project focuses on layout structure, responsiveness, and clean UI behavior 
 ---
 
 ## 🔗 Live Preview
-(Enable GitHub Pages to add the live link here)
+https://responsive-menu-bar-vephla.vercel.app/
 
 ---
 
 ## 📸 Preview
-![Responsive Navbar Preview](./preview.png)
+<img width="1918" height="153" alt="image" src="https://github.com/user-attachments/assets/36fc82f7-96da-4bd3-b501-4e646f6c8752" />
+
 
 ---
 
